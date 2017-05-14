@@ -1,0 +1,14 @@
+/* 
+	Addtional styling for the resume buttom
+*/
+
+
+
+#mybox {
+	position: relative;
+	float: left;
+	margin: 0 0 20px;
+	padding: 20px;
+	width: 300px;
+	border: solid 5px black;
+}
