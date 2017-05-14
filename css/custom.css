@@ -6,7 +6,7 @@
 
 #mybox {
 	position: relative;
-	float: right;
+	float: left;
 	margin: 0 0 20px;
 	padding: 20px;
 	width: 300px;
