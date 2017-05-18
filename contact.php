@@ -1,6 +1,6 @@
 <?php 
-$emailTo = 'c48liang@edu.uwaterloo.ca';
-$siteTitle = 'Chris Liang Personal Site';
+$emailTo = c48liang@edu.uwaterloo.ca;
+$siteTitle = Chris Liang Personal Site;
 
 error_reporting(E_ALL ^ E_NOTICE); // hide all basic notices from PHP
 
