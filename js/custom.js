@@ -3,7 +3,7 @@ var originalSize = document.getElementById("resumeLink").style.fontSize;
 
 function getDate() {
     document.getElementById("resumeLink").style.fontSize = '25px';
-    document.getElementById("resumeLink").innerHTML = 'Last Update: Jan 26th';
+    document.getElementById("resumeLink").innerHTML = 'Last Update: Oct 1st 2018';
 }
 
 
