@@ -3,15 +3,26 @@
 */
 
 
-
+.resume-wrapper {
+    display: flex;
+}
 #resumeBorder {
 	position: relative;
 	float: left;
-	margin: 0px;
 	padding: 20px;
 	border: solid 5px black;
 }
-
+.resume-date {
+    align-items: flex-end;
+    display: flex;
+    padding-left: 7px;
+    padding-bottom: 7px;
+    opacity: 0;
+    color: ghostwhite;
+}
+.resume-wrapper:hover .resume-date {
+    opacity: 1;
+}
 #nameFooter {
 	color: #21b799;
 }
